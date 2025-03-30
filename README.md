@@ -1,3 +1,2 @@
-# mcp-experiments
-
-This repository is used to save code and resources related to experiments with MCP.
+# MCP Experiments
+This repository contains code and experiments related to Multi-Context Protocol (MCP).
